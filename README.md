@@ -1,3 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/30lve8r3lmm5pimv?svg=true)](https://ci.appveyor.com/project/Anna7682/ra-redux-toolkit)
+
+
 # Домашнее задание к занятию «Redux Toolkit»
 ===
 
